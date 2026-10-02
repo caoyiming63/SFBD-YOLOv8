@@ -1,0 +1,12 @@
+path: datasets/LaboroTomato_split
+
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: green
+  1: half_ripened
+  2: fully_ripened
+
+nc: 3
